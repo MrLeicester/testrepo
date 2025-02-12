@@ -1,2 +1,2 @@
-#вывод Hello World!
+#вывод в консоль Hello World!
 print("Hello World!")
